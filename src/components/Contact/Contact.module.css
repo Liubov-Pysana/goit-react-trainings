@@ -1,0 +1,9 @@
+.liItem {
+    border: 1px solid #000;
+    border-radius: 10px;
+    padding: 0 8px;
+    margin: 10px 0;
+    list-style: none;
+    line-height: 12px;
+    font-size: 16px;
+}
